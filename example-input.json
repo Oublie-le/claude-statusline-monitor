@@ -1,0 +1,22 @@
+{
+  "session_id": "example-session-id",
+  "cwd": "/home/user/project",
+  "model": {
+    "id": "claude-opus-4-6[1m]",
+    "display_name": "Opus 4.6 (1M context)"
+  },
+  "cost": {
+    "total_cost_usd": 6.08,
+    "total_duration_ms": 3731943,
+    "total_api_duration_ms": 308198,
+    "total_lines_added": 77,
+    "total_lines_removed": 69
+  },
+  "context_window": {
+    "total_input_tokens": 1048576,
+    "total_output_tokens": 14700,
+    "context_window_size": 1000000,
+    "used_percentage": 8,
+    "remaining_percentage": 92
+  }
+}

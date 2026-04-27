@@ -1,0 +1,9 @@
+{
+  "name": "session-monitor-statusline",
+  "version": "1.0.0",
+  "description": "Display model info, token usage, context window percentage, and session cost in the Claude Code status line.",
+  "author": {
+    "name": "fengpijie",
+    "email": "fengpijie@cvte.com"
+  }
+}
