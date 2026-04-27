@@ -1,0 +1,24 @@
+statusline.sh
+  8a870df02f3cbe41 18-28,34-36,45-47,69-70
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.10",
+  "base_commit_sha": "1f6510fdd929e0b75d40aa985be2760452de7384",
+  "prompts": {
+    "8a870df02f3cbe41": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e1647116-c434-43a8-ad89-48e9382fc210",
+        "model": "claude-opus-4.6"
+      },
+      "human_author": "Oublie-le",
+      "messages": [],
+      "total_additions": 0,
+      "total_deletions": 0,
+      "accepted_lines": 36,
+      "overriden_lines": 0,
+      "messages_url": "https://gitai.gz.cvte.cn/cas/d274aa156a4b64dbbbbb2caa0928d107c840ce787fa655b18bbb24fb7ff39d4c"
+    }
+  }
+}
